@@ -18,6 +18,9 @@ void main(){
         }
     }
 }
+else{
+    flag=0;
+}
 if(flag==1)
     printf("Idenntifier");
 else
